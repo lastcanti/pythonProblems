@@ -4,12 +4,6 @@
 """
 
 
-for itemInMyList in myList:
-        if itemInMyList < 5:
-            print(myList[itemInMyList])
-
-            
-
 myList = [1,1,2,3,5,8,13,21,35]
 
 
